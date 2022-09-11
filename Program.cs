@@ -38,6 +38,7 @@ void ReadInput()
         case 5:
             isRunning = false;
             Console.WriteLine("Bra jobbat. Ses imorgon.");
+            Consolw.WriteLine("Eller inte");
             break;
         default:
             break;
