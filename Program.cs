@@ -33,7 +33,7 @@ void ReadInput()
             Console.WriteLine("Vad väntar du på? Börja inventera hyllorna!");
             break;
         case 4:
-            Console.WriteLine("Vad sa katten när han åkte rulltrappa?  Hiss.");
+            Console.WriteLine("Vad sa katten när han åkte rulltrappa?  Hiss. get it???");
             break;
         case 5:
             isRunning = false;
